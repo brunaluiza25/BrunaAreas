@@ -1,0 +1,68 @@
+body{
+    text-align: center;
+    font-size: 20px;
+    background-color: #dfc0f1;
+}
+
+header {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.container {
+   
+    padding: 50px;
+}
+
+
+.container h1 {
+    color: purple;
+}
+
+#botoes input[type="radio"] {
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    border: none;
+}
+
+
+#exibir {
+    font-size: 22px;
+    color: purple;
+}
+
+
+#elementosDiv {
+    padding: 15px;
+  
+}
+
+#elementosDiv input[type="number"] {
+
+    padding: 5px; 
+    font-size: 16px;
+    margin: 10px;
+}
+
+#elementosDiv img {
+    margin: 20px; 
+}
+
+#elementosDiv button {
+   
+    width: 90px; 
+    height: 30px;
+    font-size: 16px;
+}
+
+footer {
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: calc(100% - 10px);  }
+
